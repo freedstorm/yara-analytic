@@ -1,6 +1,4 @@
-==================================================
-           FREEDSTORM YARA ANALYTIC
-==================================================
+FREEDSTORM YARA ANALYTIC
 Entwickelt von: freedstorm
 Release: 2026-01-02
 
@@ -16,4 +14,3 @@ INSTALLATION:
 SICHERHEIT:
 Prüfen Sie den SHA256-Hash in der beiliegenden
 sha256sum.txt vor der ersten Ausführung.
-==================================================
